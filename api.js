@@ -20,7 +20,7 @@ function unimindApiBase() {
       }
     }
   }
-  return "http://127.0.0.1:5000";
+  return "http://183.235.121.253:8087";
 }
 const UNIMIND_FINANCE_KEY = "unimind_finance_state";
 const UNIMIND_PRODUCTIVITY_KEY = "unimind_productivity_state";
