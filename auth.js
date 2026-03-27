@@ -18,7 +18,7 @@
       return;
     }
   }
-  window.UNIMIND_API_BASE = "http://127.0.0.1:5000";
+  window.UNIMIND_API_BASE = "http://183.235.121.253:8087";
 })();
 
 const UNIMIND_AUTH_KEY = "unimind_is_logged_in";
