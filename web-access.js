@@ -11,7 +11,7 @@
     d.innerHTML =
       "You opened this page as a <strong>local file</strong> (file://). Sign up / login will usually fail. " +
       "Close this tab, double-click <strong>serve.bat</strong> in this folder, then open " +
-      "<strong>http://127.0.0.1:8765/</strong> — see <strong>README_LOCAL.md</strong>.";
+      "<strong>http://183.235.121.253:8087/</strong> — see <strong>README_LOCAL.md</strong>.";
     if (document.body) {
       document.body.insertBefore(d, document.body.firstChild);
     }
